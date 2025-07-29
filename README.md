@@ -18,8 +18,7 @@ This project demonstrates how to:
 
 ## 🏗️ Architecture  
 
-![End-to-End Pipeline]![medallion_architecture](https://github.com/user-attachments/assets/1109849a-d94e-48e6-9353-3ccfb7600a4d)
-
+![End-to-End Pipeline](https://github.com/user-attachments/assets/1109849a-d94e-48e6-9353-3ccfb7600a4d)
 
 ### Layers  
 
@@ -36,8 +35,7 @@ Additional Features:
 
 ## ⭐ Star Schema  
 
-![Fact & Dimension Model]![Data_flow](https://github.com/user-attachments/assets/92a784c1-d248-4a90-969b-54a6860cf5c4)
- 
+![Fact & Dimension Model](https://github.com/user-attachments/assets/92a784c1-d248-4a90-969b-54a6860cf5c4)
 
 ### Gold Layer Tables  
 
@@ -69,7 +67,7 @@ Additional Features:
 - **PySpark**  
 - **Delta Lake**  
 - **Delta Live Tables (DLT)**  
-- **Power BI / SQL Endpoints**  
+- **SQL Endpoints**  
 
 ---
 
@@ -112,7 +110,7 @@ azure-retail-pipeline/
 │   ├── DLT_PIPELINE.png
 │   └── FACT_TABLE.png
 └── README.md
-
-# 📝 Author
+```
+#📝 Author
 Nara Uttej
 Data Engineering Enthusiast | Azure | Databricks | PySpark | SQL
