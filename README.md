@@ -1,4 +1,4 @@
-# 🛍️ Retail360: Azure Databricks Pipeline with Medallion Architecture & SCD1/SCD2  
+# 🛍️ Retail Data Engineering on Azure Databricks with SCD Type 1 & Type 2
 
 **An end-to-end retail data pipeline using Azure Blob, Databricks, and Delta Live Tables with Medallion Architecture, implementing SCD1 & SCD2 for a star-schema model ready for BI and analytics.**
 
@@ -18,7 +18,8 @@ This project demonstrates how to:
 
 ## 🏗️ Architecture  
 
-![End-to-End Pipeline](images/END_TO_END_PIPELINE.png)  
+![End-to-End Pipeline]![medallion_architecture](https://github.com/user-attachments/assets/1109849a-d94e-48e6-9353-3ccfb7600a4d)
+
 
 ### Layers  
 
@@ -35,7 +36,8 @@ Additional Features:
 
 ## ⭐ Star Schema  
 
-![Fact & Dimension Model](images/FACT_TABLE.png) 
+![Fact & Dimension Model]![Data_flow](https://github.com/user-attachments/assets/92a784c1-d248-4a90-969b-54a6860cf5c4)
+ 
 
 ### Gold Layer Tables  
 
@@ -111,3 +113,6 @@ azure-retail-pipeline/
 │   └── FACT_TABLE.png
 └── README.md
 
+# 📝 Author
+Nara Uttej
+Data Engineering Enthusiast | Azure | Databricks | PySpark | SQL
