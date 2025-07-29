@@ -111,8 +111,6 @@ azure-retail-pipeline/
 │   └── FACT_TABLE.png
 └── README.md
 ```
-#📝 Author
-
+## 📝 Author
 Nara Uttej
-
 Data Engineering Enthusiast | Azure | Databricks | PySpark | SQL
