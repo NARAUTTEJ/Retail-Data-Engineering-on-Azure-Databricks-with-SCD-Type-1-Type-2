@@ -112,5 +112,7 @@ azure-retail-pipeline/
 └── README.md
 ```
 #📝 Author
+
 Nara Uttej
+
 Data Engineering Enthusiast | Azure | Databricks | PySpark | SQL
